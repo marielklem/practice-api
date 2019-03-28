@@ -1,0 +1,64 @@
+{
+  "contactList" :{
+    {
+      "name": "Allie Alligator",
+      "phone": "000-000-0000",
+      "address": "123 Later Gater Lane",
+      "imgUrl": "https://media.giphy.com/media/26AHyS9teStXGwhpK/giphy.gif"
+    },
+    {
+      "name": "Bubba Bear",
+      "phone": "111-111-1111",
+      "address": "123 Berry Berry Hungry Cir",
+      "imgUrl": "https://media.giphy.com/media/6dgzyb5cwQl8s/giphy.gif"
+    },
+    {
+      "name": "Catina Cat",
+      "phone": "222-222-2222",
+      "address": "989 Meowing Ct",
+      "imgUrl": "https://pbs.twimg.com/profile_images/1080545769034108928/CEzHCTpI_400x400.jpg"
+    },
+    {
+      "name": "DeeDee Deer",
+      "phone": "333-333-3333",
+      "address": "675 Headlines Ln",
+      "imgUrl": "https://blog.mystart.com/wp-content/uploads/shutterstock_95726596-770x515.jpg"
+    },
+    {
+      "name": "Ellie Elephant",
+      "phone": "444-444-4444",
+      "address": "333 Junk in The Trunk Dr",
+      "imgUrl": "https://i.pinimg.com/originals/d5/56/2d/d5562db9757dec4c754a53072aec7575.jpg"
+    },
+    {
+      "name": "Francy Fish",
+      "phone": "555-555-5555",
+      "address": "999 Bubbles Road",
+      "imgUrl": "https://media.giphy.com/media/l1J9L9Y81emaoNMoU/giphy.gif"
+    },
+    {
+      "name": "Gordo Gorilla",
+      "phone": "666-666-6666",
+      "address": "111 RIP Harambe Road",
+      "imgUrl": "https://nationalzoo.si.edu/sites/default/files/styles/768x384_scale_and_crop/public/animals/lowlandgorilla-004.jpg?itok=ev3cWU1d"
+    },
+    {
+      "name": "Honey Horse",
+      "phone": "777-777-7777",
+      "address": "3345 Hay, where'd you go Cir",
+      "imgUrl": "https://www.telegraph.co.uk/content/dam/news/2019/01/12/TELEMMGLPICT000185347942_trans_NvBQzQNjv4Bq4k9pB6mVv575RZMUuuHUNjlaTMTxUhlzF8Rkw038U-A.jpeg?imwidth=900"
+    },
+    {
+      "name": "Inny Inchwork",
+      "phone": "888-888-8888",
+      "address": "12 Inching Along Cir",
+      "imgUrl": "http://fluff.s3.amazonaws.com/tyro/ffriends/friends/inch-worm.png"
+    },
+    {
+      "name": "Jerry Jellyfish",
+      "phone": "999-999-9999",
+      "address": "777 Don't Pee on Me Dr",
+      "imgUrl": "https://media.giphy.com/media/l4hLIHkMH5fZC93SE/giphy.gif"
+    },
+  }
+}
