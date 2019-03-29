@@ -38,7 +38,7 @@
     {
       "id": 6,
       "name": "Francy Fish",
-      "phone": "555-555-5555",
+      "phone": "999-999-9999",
       "address": "999 Bubbles Road",
       "imgUrl": "https://media.giphy.com/media/l1J9L9Y81emaoNMoU/giphy.gif"
     },
@@ -66,7 +66,7 @@
     {
       "id": 10,
       "name": "Jerry Jellyfish",
-      "phone": "9192717815",
+      "phone": "555-555-5555",
       "address": "777 Don't Pee on Me Dr",
       "imgUrl": "https://media.giphy.com/media/l4hLIHkMH5fZC93SE/giphy.gif"
     }
